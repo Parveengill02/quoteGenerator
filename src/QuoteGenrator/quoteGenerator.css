@@ -35,7 +35,7 @@ body{
     color: white;
     background-color: #456033;
     padding: 20px 26px;
-     transition: tranform 0.5 ease , box-shadow 0.5 ease;
+     transition: transform 0.5 ease , box-shadow 0.5 ease;
 }
 
 .quote-container button:hover{
